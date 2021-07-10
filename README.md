@@ -17,8 +17,8 @@
 
 ### 3 Main ways to debug
 * **Toasts : small in app notifications**
-* **Logging : sending data to the log ( viewable from logcat)**
-* **Breakpoints : Set a breakpoint so you can pause app execution and look at variable states at specific points**
+* **Logging with logcat : sending data to the log ( viewable from logcat)**
+* **Debugger witgh Breakpoints : Set a breakpoint so you can pause app execution and look at variable states at specific points**
 
 
 ### **Toasts : best as a preventative**
@@ -64,12 +64,14 @@
 
 
 ## Hints 
+
+### vague hints
 * Have you checked log cat?
 * Remember that the Json.getString() fucntion is cases and white space sensitive.
 * Are your Json key values the same as in the example call back https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed
+* Is there anything wrong with the URL we are using for our API request?
 * Have you Taken a look at the XML file?
 * Take a look at where we actually make our Movie variables in mainActity is something missing?
-
 
 
 
