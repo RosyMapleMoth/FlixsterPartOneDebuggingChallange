@@ -65,6 +65,30 @@
 
 ## Hints 
 
+### Scroll down for hints
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### vague hints
 * Have you checked log cat?
 * Remember that the Json.getString() fucntion is cases and white space sensitive.
