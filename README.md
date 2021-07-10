@@ -63,33 +63,7 @@
 
 
 
-## Hints 
-
-### Scroll down for hints
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### vague hints
+# Hints 
 * Have you checked log cat?
 * Remember that the Json.getString() fucntion is cases and white space sensitive.
 * Are your Json key values the same as in the example call back https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed
